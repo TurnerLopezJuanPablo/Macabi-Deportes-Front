@@ -23,9 +23,9 @@ npm run dev
 ```
 # INDEX
 
-- [About the project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#about-the-project)
-- [NPM Packages](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#npm-packages)
-- [Steps to Set Up and Run the Project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#steps-to-set-up-and-run-the-project)
+- [About the Project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front?tab=readme-ov-file#about-the-project)
+- [NPM Packages](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front?tab=readme-ov-file#npm-packages)
+- [Steps to Set Up and Run the Project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front?tab=readme-ov-file#steps-to-set-up-and-run-the-project)
 
 # About the project
 
