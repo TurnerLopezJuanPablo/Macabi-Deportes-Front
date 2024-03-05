@@ -21,6 +21,12 @@ npm install
 ```sh
 npm run dev
 ```
+# INDEX
+
+- [About the project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#about-the-project)
+- [NPM Packages](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#npm-packages)
+- [Steps to Set Up and Run the Project](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front#steps-to-set-up-and-run-the-project)
+
 # About the project
 
 The software was developed as the final project for the systems analyst career, involving five people, including myself. The project aimed to create a system for tracking attendance of Macabi's members. The application features a login system and password recovery for secure and proper use by users.
