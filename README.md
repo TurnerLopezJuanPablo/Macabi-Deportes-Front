@@ -35,6 +35,66 @@ Macabi has sports, each with its own category where different members are regist
 > [!NOTE]
 > Images of the developed app:
 
+### Main Page
+![Main Page](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(2).png)
+
+### User Details
+![User Details](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(3).png)
+
+### Update Password
+![Update Password](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(4).png)
+
+### Users List
+![Users List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(5).png)
+
+### User Details
+![User Details](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(6).png)
+
+### Members List
+![Members List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(7).png)
+
+### Member Details 1
+![Member Details 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(8).png)
+
+### Member Details 2
+![Member Details 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(9).png)
+
+### Emergency numbers
+![Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(10).png)
+
+### Update Emergency numbers
+![Update Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(11).png)
+
+### Create Emergency numbers
+![Create Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(12).png)
+
+### Sports List
+![Sports List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(13).png)
+
+### Categories Data 1
+![Categories Data 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(14).png)
+
+### Categories Data 2
+![Categories Data 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(15).png)
+
+### Category Details 
+![Categories Data](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(16).png)
+
+### Category Details - Modifying teachers
+![Category Details - Modifying teachers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(17).png)
+
+### Dates List 1
+![Dates List 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(18).png)
+
+### Dates List 2
+![Dates List 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(19).png)
+
+### Create Date
+![Create Date](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(20).png)
+
+### Taking attendance
+![Taking attendance](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(1).png)
+
 #### Npm packages
 - @vitejs/plugin-vue@4.4.0
 - axios@1.6.1
