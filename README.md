@@ -35,65 +35,105 @@ Macabi has sports, each with its own category where different members are regist
 > [!NOTE]
 > Images of the developed app:
 
-### Main Page
-![Main Page](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(2).png)
+# <p align="center">Main Page</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(2).png" alt="Main Page">
+</p>
 
-### User Details
-![User Details](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(3).png)
+# <p align="center">User Details</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(3).png" alt="User Details">
+</p>
 
-### Update Password
-![Update Password](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(4).png)
+# <p align="center">Update Password</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(4).png" alt="Update Password">
+</p>
 
-### Users List
-![Users List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(5).png)
+# <p align="center">Users List</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(5).png" alt="Users List">
+</p>
 
-### User Details
-![User Details](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(6).png)
+# <p align="center">User Details</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(6).png" alt="User Details">
+</p>
 
-### Members List
-![Members List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(7).png)
+# <p align="center">Members List</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(7).png" alt="Members List">
+</p>
 
-### Member Details 1
-![Member Details 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(8).png)
+# <p align="center">Member Details 1</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(8).png" alt="Member Details 1">
+</p>
 
-### Member Details 2
-![Member Details 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(9).png)
+# <p align="center">Member Details 2</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(9).png" alt="Member Details 2">
+</p>
 
-### Emergency numbers
-![Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(10).png)
+# <p align="center">Emergency numbers</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(10).png" alt="Emergency numbers">
+</p>
 
-### Update Emergency numbers
-![Update Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(11).png)
+# <p align="center">Update Emergency numbers</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(11).png" alt="Update Emergency numbers">
+</p>
 
-### Create Emergency numbers
-![Create Emergency numbers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(12).png)
+# <p align="center">Create Emergency numbers</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(12).png" alt="Create Emergency numbers">
+</p>
 
-### Sports List
-![Sports List](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(13).png)
+# <p align="center">Sports List</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(13).png" alt="Sports List">
+</p>
 
-### Categories Data 1
-![Categories Data 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(14).png)
+# <p align="center">Categories Data 1</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(14).png" alt="Categories Data 1">
+</p>
 
-### Categories Data 2
-![Categories Data 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(15).png)
+# <p align="center">Categories Data 2</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(15).png" alt="Categories Data 2">
+</p>
 
-### Category Details 
-![Categories Data](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(16).png)
+# <p align="center">Categories Details</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(16).png" alt="Category Details">
+</p>
 
-### Category Details - Modifying teachers
-![Category Details - Modifying teachers](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(17).png)
+# <p align="center">Category Details - Modifying teachers</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(17).png" alt="Category Details - Modifying teachers">
+</p>
 
-### Dates List 1
-![Dates List 1](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(18).png)
+# <p align="center">Dates List 1</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(18).png" alt="Dates List 1">
+</p>
 
-### Dates List 2
-![Dates List 2](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(19).png)
+# <p align="center">Dates List 2</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(19).png" alt="Dates List 2">
+</p>
 
-### Create Date
-![Create Date](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(20).png)
+# <p align="center">Create Date</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(20).png" alt="Create Date">
+</p>
 
-### Taking attendance
-![Taking attendance](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(1).png)
+# <p align="center">Taking attendance</p>
+<p align="center">
+  <img src="https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(1).png" alt="Taking attendance">
+</p>
 
 ## Npm packages
 - @vitejs/plugin-vue@4.4.0
