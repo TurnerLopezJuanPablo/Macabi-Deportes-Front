@@ -33,7 +33,7 @@ The software was developed as the final project for the systems analyst career, 
 Macabi has sports, each with its own category where different members are registered. In each category, dates and attendance of each member can be managed for better tracking of each student.
 
 > [!TIP]
->  **See the documentation here: [Manual de Usuario - Macabi Asistencias.pdf](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/Manual%20de%20Usuario%20-%20Macabi%20Asistencias.pdf). (Only spanish)**
+>  **See the User manual here: [Manual de Usuario - Macabi Asistencias.pdf](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/Manual%20de%20Usuario%20-%20Macabi%20Asistencias.pdf). (Only spanish)**
 
 > [!IMPORTANT]
 > The app supports all types and sizes of screens, meaning it is responsive.
@@ -162,3 +162,4 @@ export default apiUrl
 3. Execute `npm run dev` in the terminal to launch the project locally.
 4. You will also need to have the other project running on your machine for the application to function properly. [Macabi-Deportes-API](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-API)
 
+<a name="top" >[Back to top](#top)</a>[:arrow_up:](#top)
