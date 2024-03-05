@@ -26,6 +26,15 @@ npm run dev
 The software was developed as the final project for the systems analyst career, involving five people, including myself. The project aimed to create a system for tracking attendance of Macabi's members. The application features a login system and password recovery for secure and proper use by users.
 Macabi has sports, each with its own category where different members are registered. In each category, dates and attendance of each member can be managed for better tracking of each student.
 
+> [!TIP]
+>  **See the documentation here: [Manual de Usuario - Macabi Asistencias.pdf](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/Manual%20de%20Usuario%20-%20Macabi%20Asistencias.pdf). (Only spanish)**
+
+> [!IMPORTANT]
+> The app supports all types and sizes of screens, meaning it is responsive.
+
+> [!NOTE]
+> Images of the developed app:
+
 #### Npm packages
 - @vitejs/plugin-vue@4.4.0
 - axios@1.6.1
