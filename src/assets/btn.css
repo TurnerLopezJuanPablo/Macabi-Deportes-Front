@@ -1,0 +1,72 @@
+.primary-macabi {
+    background-color: #004896;
+    border: none
+}
+
+.primary-macabi:hover {
+    background-color: #003c7c;
+}
+
+.primary-macabi:focus {
+    background-color: #003c7c;
+}
+
+.primary-macabi:active {
+    background-color: #002b58;
+}
+
+
+.primary-macabi:disabled {
+    background-color: #004896;
+    border: none;
+    opacity: 0.9;
+}
+
+.btn-macabi1 {
+    color: white;
+    background-color: #004896;
+}
+
+.btn-macabi1:hover {
+    color: white;
+    background-color: #013368;
+}
+
+.btn-macabi1:active {
+    background-color: #002b58;
+}
+
+/*Estilos para los nuevos filtros*/
+
+.button-list {
+    width: 3rem;
+    height: 1.1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #198754;
+}
+
+.button-list:hover {
+    background-color: #177048;
+}
+
+.td-custom {
+    max-width: 120px;
+    /* Ajusta el valor según tus necesidades */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.td-custom2 {
+    max-width: 170px;
+    /* Ajusta el valor según tus necesidades */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+tbody {
+    cursor: pointer;
+}
