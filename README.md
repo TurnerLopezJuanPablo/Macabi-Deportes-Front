@@ -21,7 +21,7 @@ npm install
 ```sh
 npm run dev
 ```
-### About the project
+# About the project
 
 The software was developed as the final project for the systems analyst career, involving five people, including myself. The project aimed to create a system for tracking attendance of Macabi's members. The application features a login system and password recovery for secure and proper use by users.
 Macabi has sports, each with its own category where different members are registered. In each category, dates and attendance of each member can be managed for better tracking of each student.
@@ -95,7 +95,7 @@ Macabi has sports, each with its own category where different members are regist
 ### Taking attendance
 ![Taking attendance](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-Front/blob/main/SoftwareMacabiImages/SoftwareMacabi%20(1).png)
 
-#### Npm packages
+## Npm packages
 - @vitejs/plugin-vue@4.4.0
 - axios@1.6.1
 -  bootstrap@5.3.2
@@ -105,7 +105,7 @@ Macabi has sports, each with its own category where different members are regist
 -  vue-router@4.2.5
 -  vue@3.3.4
 
-### Steps to Set Up and Run the Project:
+# Steps to Set Up and Run the Project:
 
 1. Run `npm i` or `npm install` in the <img alt="Visual Studio Code" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 15px;" /> Visual Studio Code terminal.
 2. Navigate to `config/config.js` and set the URL you will use with the project's API: [Macabi-Deportes-API](https://github.com/TurnerLopezJuanPablo/Macabi-Deportes-API). For example:
